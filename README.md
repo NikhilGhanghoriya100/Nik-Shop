@@ -24,7 +24,7 @@ Nik-Shop is a modern and responsive E-Commerce frontend application built using 
 ⚙️ Installation & Setup
 
 1.Clone the repository:
-git clone https://github.com/your-username/Nik-shop.git
+git clone https://github.com/NikhilGhanghoriya100/Nik-Shop.git
 
 2.Navigate to project folder:
 cd Nik-shop
