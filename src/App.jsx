@@ -5,7 +5,7 @@ import Nav from './components/Nav/Nav'
 import Footer from './components/Footer/Footer'
 import Shop from './pages/Shop/Shop'
 import Contact from './pages/Contact/Contact'
-import Cart from './pages/cart/cart'
+import Cart from './pages/Cart/Cart'
 
 
 function App() {
