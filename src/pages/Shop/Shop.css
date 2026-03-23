@@ -1,0 +1,41 @@
+.shop {
+    width: 100%; 
+    min-height: 100vh;
+    padding: 20px;
+}
+
+.category-section {
+    display: flex;          
+    flex-direction: row;    
+    justify-content: center; 
+    gap: 20px;              
+    flex-wrap: wrap;        
+    margin-bottom: 50px;
+}
+
+.category-card {
+    cursor: pointer;
+    text-align: center;
+    width: 150px;           
+}
+
+.category-card img {
+    width: 100%;            
+    height: auto;
+    border-radius: 8px;
+}
+
+.category-card span {
+    display: block;
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+.shop .heading {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 3vmax;
+    font-weight: 600;
+}
+
